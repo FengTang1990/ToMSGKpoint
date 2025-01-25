@@ -1,5 +1,8 @@
 Readme for ToMSGKpoint Package
 
+[Modifications  in ToMSGKpointV2.zip, 2025/1/25:
+Getgkinfo function is modified: We add the symbol for every magnetic space group operation according to the Bradley-Cracknell convention as listed in the output file: msgop.mx.]
+
 Overview
 The ToMSGKpoint package assists in analyzing magnetic space group symmetries, little group of high-symmetry point, high-symmetry line and high-symmetry palne and their (co)irreducible representations for any crystal structure and calculating (co)irreducible representations of energy bands at high-symmetry point, high-symmetry line and high-symmetry palne.
 
